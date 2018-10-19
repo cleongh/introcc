@@ -241,6 +241,8 @@ notes: documental
 > La creación de modelos y sistemas cuyas creaciones serían calificadas como creativas por un observador sin prejuicios
 ...
 
+<!-- .slide: data-background="vitrubio.jpg" -->
+
 # Leonardo da Vinci
 
 ¿Qué hubiera podido hacer con un poco de ayuda?
